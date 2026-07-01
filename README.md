@@ -1,6 +1,8 @@
 # Finger-Counter
 A Mediapipe project that counts number of fingers from right hand in the camera.
 
+Finger images: ["NUMBERS" Finger Counting Flashcards 0–10 | Printable Math Cards by Betty Poppa Store](https://www.teacherspayteachers.com/Product/NUMBERS-Finger-Counting-Flashcards-010-Printable-Math-Cards-12188274)
+
 Python version: `3.12.4`
 
 ## Library Installations
